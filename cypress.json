@@ -1,0 +1,2 @@
+{ "baseUrl": "https://flask-todo-test.herokuapp.com/",
+"chromeWebSecurity": false} 
